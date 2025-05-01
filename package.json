@@ -1,0 +1,20 @@
+{
+  "name": "web_aut_mihails_kostjuks_md2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihailsKostjuks/WEB_AUT_MIHAILS_KOSTJUKS_MD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihailsKostjuks/WEB_AUT_MIHAILS_KOSTJUKS_MD2/issues"
+  },
+  "homepage": "https://github.com/MihailsKostjuks/WEB_AUT_MIHAILS_KOSTJUKS_MD2#readme"
+}
